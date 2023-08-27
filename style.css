@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: center;
+}
+
+button {
+    flex: 1, 1, auto;
+    width: 124px;
+}
+
+#score {
+    font-weight: 700;
+    font-size: 150px;
+    color: rgb(16, 41, 49);
+}
